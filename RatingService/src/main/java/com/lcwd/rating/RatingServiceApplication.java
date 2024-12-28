@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RatingServiceApplication {
 
 	public static void main(String[] args) {
+		System.out.println("removed");
 		SpringApplication.run(RatingServiceApplication.class, args);
 	}
 
